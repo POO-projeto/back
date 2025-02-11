@@ -1,0 +1,7 @@
+INVALID_ID = "O ID de {} deve ser um número inteiro e não pode ser nulo."
+INVALID_DATE = "A data deve ser fornecida e não pode ser nula."
+INVALID_NAME = "O campo nome é inválido."
+INVALID_EMAIL = "Formato de Email inválido, insira um correto"
+INVALID_DESCRIPTION = "O campo description é inválido."
+INVALID_SIZE = "O tamanho de {} é inválido"
+REQUIRED_FIELD = "O campo {} é obrigatório"
